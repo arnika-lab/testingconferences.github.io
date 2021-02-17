@@ -1,3 +1,4 @@
+[![Board Status](https://volvogroup.visualstudio.com/c0c50237-a3c8-42a0-b44c-114e2c8cf2ea/98296034-d8f0-4a30-8b09-29bd4654a170/_apis/work/boardbadge/0057c2f2-927e-485d-8315-74c4ccf15978)](https://volvogroup.visualstudio.com/c0c50237-a3c8-42a0-b44c-114e2c8cf2ea/_boards/board/t/98296034-d8f0-4a30-8b09-29bd4654a170/Microsoft.FeatureCategory)
 # Testing Conferences
 [![CircleCI](https://circleci.com/gh/TestingConferences/testingconferences.github.io.svg?style=shield)](https://circleci.com/gh/TestingConferences/testingconferences.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
